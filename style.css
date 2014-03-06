@@ -1,0 +1,49 @@
+body {
+	margin:0;
+	padding:0;
+
+	
+}
+
+#bottom {
+	
+	position: fixed;
+	bottom: 0;
+	height: 100px;
+	width: 100%;
+	background: rgba(0,0,0,0.1);
+	font-family: 'Helvetica';
+	color: #333;
+	text-align: center;
+	
+
+}
+
+#time {
+	margin-top: 10px;
+}
+
+input {
+	width: 98%;
+	margin-left: 1%;
+	margin-right: 1%;
+	margin-top: 10px;
+}
+
+h1 {
+	
+	font-size: 22px;
+	font-weight: 200;
+	
+	padding: 0;
+
+}
+
+#playbtn {
+	width: 100px;
+	height: 30px;
+	font-size: 14px;
+	font-family: 'Helvetica';
+	
+}
+
