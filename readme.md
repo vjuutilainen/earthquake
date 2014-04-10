@@ -1,3 +1,5 @@
-## Earthquake
+# Earthquake
 
-Earthquake visualization with D3.js on canvas.
+Japan earthquake visualization with D3.js on canvas.
+
+Further development [here.](http://geodesygina.com/JapanEarthquake/index.html)
